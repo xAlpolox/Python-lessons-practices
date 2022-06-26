@@ -1,0 +1,15 @@
+[
+   "rebels",
+   {
+      "firstName": "Luke",
+      "lastName": "Skywalker"
+   },
+   {
+      "firstName": "Han",
+      "lastName": "Solo"
+   },
+   {
+      "firstName": "Wedge",
+      "lastName": "Antilles"
+   }
+]
